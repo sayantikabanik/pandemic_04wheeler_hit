@@ -17,7 +17,7 @@ def predict():
     final_features = [ np.array(int_features) ]
     prediction = model.predict(final_features)
     output = round(prediction[0], 2)
-    return render_template('index.html', prediction_text='Predicted Sales $ {}'.format(output))
+    return render_template('index.html', prediction_text='Predicted Sales (USD million) $ {}'.format(output))
 
 
 if __name__=='__main__':
