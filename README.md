@@ -1,4 +1,4 @@
-# pandemic_04wheeler_hit
+# Hatchmap
 ## Background 
 
 - The automobile industry has seen an advantage out of the Pandemic situation, especially the 4-wheeler businesses have seen a sudden rise in the last quarter of 2020. 
@@ -7,3 +7,9 @@
 ## Objective
 
 Track the sales and reviews for Automobile related products on Amazon and other e-commerce sites along with gathering information by analyzing the trends and patterns based on the posts on social media platforms including Twitter, Facebook, Instagram, WhatsApp, and others. You are to analyze articles about this conglomerate on business and stock market sites and forums from across the world. Scrape the news and related sites.
+
+## Kaggle notebook with analysis (EDA, modelling and insights)
+https://www.kaggle.com/sayantikabanik/group01-hatchmap
+
+## Deployment made via Heroku
+https://hatchmap.herokuapp.com/
